@@ -27,7 +27,7 @@ A fast, scalable URL shortening service built with React, Vercel Serverless Func
 The Serverless URL Shortener transforms long, unwieldy URLs into compact, shareable links using randomly generated 8-character slugs. Every shortened URL is backed by MongoDB for persistence and comes with a generated QR code for instant mobile sharing.
 
 ```
-https://serverless-url-shortner.vercel.app
+https://vexifyy.vercel.app
 
 ```
 
